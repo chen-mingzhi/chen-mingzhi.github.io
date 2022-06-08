@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/:/post/hello-world.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is my very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new &quot;My New Post&quot;</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy</code></pre>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>6月5日随想</title>
+    <url>/:/post/6%E6%9C%885%E6%97%A5%E9%9A%8F%E6%83%B3.html</url>
+    <content><![CDATA[<h2 id="Starry-Sky"><a href="#Starry-Sky" class="headerlink" title="Starry Sky"></a>Starry Sky</h2><p>桂林的雨总是多且大，桂电因昨晚的暴雨又被淹了，仿佛曹操在天，吕布在地，且在桂电，桂电就如下邳一般泡着。<br>今天在宿舍看到了上海交大的vtuber又发了一次高考助威的视频，让我想起了去年这个时候我也看了同样内容的视频，我并没有充满斗志，反而是认清事实，抛开那些“理想”后我自身轻松了不少，但是觉得自己无比空虚。<br>BUT<br>我还是和往常一样向往星空，向往未知，之前和张军老师聊天————宇宙的膨胀、起源、恒星的蓝移红移、时间的概念，今天看的纪录片《星际杀手》……似乎这些在我身边发生的事不断地提醒我要不忘初心。<br><img src="https://cdn2.pandaimg.com/2022/06/07/629f59e2afc15.jpg"><br>我想起之前高三时，10月21日的那天晚上，是猎户座流星雨极大期，我熬夜等流星，终于在晚上12点半看到了一颗————一颗尾巴长而红的流星，它在空中划了过去，整个过程大约只有0.8秒。我兴奋得双手拍地，感觉自己是第一次与宇宙是那么接近，这是哈雷彗星带给我们的礼物。同年12月，有双子座流星雨的极大期，ZHR竟有120！可惜那天乌云密布。那个瞬间虽然短暂，却始终影响着我，我现在始终想着如何将自己的专业和此接近。<br>我至始至终还是个热爱天文的少年，两个字，浪漫！</p>
+]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>创建博客初体验——我的第一篇博客</title>
+    <url>/:/post/%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%88%9D%E4%BD%93%E9%AA%8C%E2%80%94%E2%80%94%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html</url>
+    <content><![CDATA[<h2 id="开头唠一唠"><a href="#开头唠一唠" class="headerlink" title="开头唠一唠"></a>开头唠一唠</h2><p>今天是2022年6月2日，刚刚考完线代，我怀着忐忑不安的心情考完试后马上新建了一个属于自己的博客。WHY？人的感情总需要什么东西来寄托或发泄，我也不例外，于是这，一个基于hexo框架搭建的个人客就成为了我的小天地，以后我的技术总结、源码、学习笔记都会上传到这里，也会在这里写写日记、心得体会之类的。因为我新学的东西忘得快，希望通过此来巩固自己的知识，积累自己的经验。<br>我现在的心情无比激动，想说很多，却又因此不知道说些什么，有什么神说的以后再慢慢说，<br>总之，<br>hello world！</p>
+<h2 id="随便起的一个题目"><a href="#随便起的一个题目" class="headerlink" title="随便起的一个题目"></a>随便起的一个题目</h2>]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+</search>
