@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>创建博客初体验——我的第一篇博客</title>
+    <url>/:/post/%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%88%9D%E4%BD%93%E9%AA%8C%E2%80%94%E2%80%94%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html</url>
+    <content><![CDATA[<h2 id="开头唠一唠"><a href="#开头唠一唠" class="headerlink" title="开头唠一唠"></a>开头唠一唠</h2><p>今天是2022年6月2日，刚刚考完线代，我怀着忐忑不安的心情考完试后马上新建了一个属于自己的博客。WHY？人的感情总需要什么东西来寄托或发泄，我也不例外，于是这，一个基于hexo框架搭建的个人客就成为了我的小天地，以后我的技术总结、源码、学习笔记都会上传到这里，也会在这里写写日记、心得体会之类的。因为我新学的东西忘得快，希望通过此来巩固自己的知识，积累自己的经验。<br>我现在的心情无比激动，想说很多，却又因此不知道说些什么，有什么神说的以后再慢慢说，<br>总之，<br>hello world！</p>
+<h2 id="随便起的一个题目"><a href="#随便起的一个题目" class="headerlink" title="随便起的一个题目"></a>随便起的一个题目</h2>]]></content>
+      <tags>
+        <tag>日记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/:/post/hello-world.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is my very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -19,15 +28,6 @@
 ]]></content>
       <tags>
         <tag>学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>创建博客初体验——我的第一篇博客</title>
-    <url>/:/post/%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%88%9D%E4%BD%93%E9%AA%8C%E2%80%94%E2%80%94%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2.html</url>
-    <content><![CDATA[<h2 id="开头唠一唠"><a href="#开头唠一唠" class="headerlink" title="开头唠一唠"></a>开头唠一唠</h2><p>今天是2022年6月2日，刚刚考完线代，我怀着忐忑不安的心情考完试后马上新建了一个属于自己的博客。WHY？人的感情总需要什么东西来寄托或发泄，我也不例外，于是这，一个基于hexo框架搭建的个人客就成为了我的小天地，以后我的技术总结、源码、学习笔记都会上传到这里，也会在这里写写日记、心得体会之类的。因为我新学的东西忘得快，希望通过此来巩固自己的知识，积累自己的经验。<br>我现在的心情无比激动，想说很多，却又因此不知道说些什么，有什么神说的以后再慢慢说，<br>总之，<br>hello world！</p>
-<h2 id="随便起的一个题目"><a href="#随便起的一个题目" class="headerlink" title="随便起的一个题目"></a>随便起的一个题目</h2>]]></content>
-      <tags>
-        <tag>日记</tag>
       </tags>
   </entry>
 </search>
